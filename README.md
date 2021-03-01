@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1> Atila Augusto </h1>
+<h1>Oi 👋, Eu sou Desenvolvedor Web Java</h1>
 
-<!--
-**vicenthy/vicenthy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Atila augusto github stats](https://github-readme-stats.vercel.app/api?username=vicenthy&show_icons=true&theme=vue-dark)](https://github.com/vicenthy)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3> Contato </h3>
+<a target="_blank" href="https://www.linkedin.com/in/atiladesenvolvedor/">
+  <img align="left" alt="LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a target="_blank" href="https://api.whatsapp.com/send?phone=5521974532617">
+  <img align="left" alt="Whatsapp" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />
+</a>
