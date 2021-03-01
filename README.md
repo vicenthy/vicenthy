@@ -2,6 +2,7 @@
 <h1>Oi 👋, Eu sou Desenvolvedor Web Java</h1>
 
 [![Atila augusto github stats](https://github-readme-stats.vercel.app/api?username=vicenthy&show_icons=true&theme=vue-dark)](https://github.com/vicenthy)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicenthy&layout=compact&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3> Contato </h3>
