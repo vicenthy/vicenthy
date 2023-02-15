@@ -1,5 +1,5 @@
 <h1> Atila Augusto </h1>
-<h1>Oi 👋, Eu sou Desenvolvedor Web Java</h1>
+<h1>Hi 👋, I am a software developer</h1>
 
 [![Atila augusto github stats](https://github-readme-stats.vercel.app/api?username=vicenthy&show_icons=true&theme=vue-dark)](https://github.com/vicenthy) <br />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vicenthy&layout=compact&show_icons=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
